@@ -12,7 +12,7 @@ Screenshot of 3DS example *physics/box2d* using SDL 1.2.
 The SDL 1.2 version of *gpusprites* example from **3ds-examples**.
 
 Screenshot of 3DS example *graphics/gpu/gpusprites* rewriting the graphic interface using SDL 1.2.
-![Screenshot of 3DS example *graphics/gpu/gpusprites* rewriting the graphic interface using SDL 1.2.](Screenshot_3DS_SDL1_2_box2D_fig.png)
+![Screenshot of 3DS example *graphics/gpu/gpusprites* rewriting the graphic interface using SDL 1.2.](Screenshot_3DS_SDL1_2_sprites_fig.png)
 
 
 
