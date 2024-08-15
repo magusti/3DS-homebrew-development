@@ -1,0 +1,63 @@
+
+turbosquid.com/es/3d-models
+
+Gold coin modelo 3dpor Clickdamn
+
+
+
+Mario Bros Low Poly modelo 3dpor Bubles Studio
+Mario Bros Low Poly and also includes Yoshi and advice,
+It is only special for video games!
+And has 3 textures to use.
+
+Blender file 2.49b
+
+Mario Bros object (includes UV map and Material)
+
+*Mario-main Texture:
+Size texture 256x256
+
+*Mario-fire Texture
+
+*Mario-mime Texture
+
+Yoshi object (includes UV map and Material)
+
+*Yoshi Color Texture
+
+
+Bloque de monedas modelo 3dpor Pink Dahlia
+This is a 3D model of a coin block of the video game Mario Bros.
+
+Originally created with CINEMA 4D 16.
+
+This model is suitable for use in broadcast, high-res film close-ups, advertising, design visualization, cartoon animation.
+
+This model contains Standard materials only.
+
+|| PRESENTATION IMAGES ||
+
+There are no extra elements in the preview images.
+All preview images are rendered with Advanced Render (Global illumination).
+
+No Photoshop or compositing used, Product is ready to render out-of-the-box. Lights and cameras are included in the file.
+
+Preview Images are rendered using the 16 version of the renderer. If you render this file using a different version of this renderer, you may not have the same results as you see on the thumbnails.
+
+To produce an image that match the first thumbnail just set save path and hit render.
+
+This file includes information on lighting placement, exposure control and render settings already set up and ready.
+
+1 textures used:
+
+HDRI.hdr: 6000*3000
+
+Scene objects are organized by groups
+No third-party renderer or plug-ins needed
+
+No animations included with this file.
+
+Also formats: obj, FBX, DAE and 3DS.
+
+File formats other than C4d are exported without the set.
+
