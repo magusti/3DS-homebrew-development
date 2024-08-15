@@ -6,8 +6,7 @@ Homebrew examples for 3DS from "videoconsole development" subject
 The SDL 1.2 version of *box2D* example from **3ds-examples**.
 
 Screenshot of 3DS example *physics/box2d* using SDL 1.2.
-![Screenshot of 3DS example physics/box2d using SDL 1.2.]
-(Screenshot_3DS_SDL1_2_box2D_fig.png)
+![Screenshot of 3DS example *physics/box2d* using SDL 1.2.](Screenshot_3DS_SDL1_2_box2D_fig.png)
 
 # 3DS_SDL1_2_sprites
 The SDL 1.2 version of *gpusprites* example from **3ds-examples**.
