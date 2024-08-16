@@ -6,12 +6,14 @@ Tokens
 https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 -->
 # 3DS-homebrew-development
-Homebrew examples for 3DS from "videoconsole development" subject
+Homebrew examples for 3DS from "videoconsole development" subject.
 
 Contents of this repo:
 - Using Box2D with SDL on [3DS__SDL1_2_box2D](https://github.com/magusti/3DS-homebrew-development#3ds__sdl1_2_box2d
 * Using sprites ib SDL 1.2 on [3DS__SDL1_2_box2D](https://github.com/magusti/3DS-homebrew-development#3ds_sdl1_2_sprites)
 + Loading 3D mesh OBJ files statically on [3DS_cargarMalla3D_estatica](https://github.com/magusti/3DS-homebrew-development#3ds_cargarmalla3d_estatica).
+
+
 
 ## 3DS__SDL1_2_box2D
 The SDL 1.2 version of *box2D* example from **3ds-examples**.
@@ -27,10 +29,10 @@ Screenshot of 3DS example *graphics/gpu/gpusprites* rewriting the graphic interf
 [Related to Switch example]().
 
 
-## 3DS_cargarMalla3D_estatica/
+## 3DS_cargarMalla3D_estatica
 A review of *lenny* example, from **3ds-examples**, that loads an OBJ mesh choosen at compile time.
 
 Examples of outputs from the lenny example rewrite as a 3D mesh visualizer (a) original and (b) three models converted from OBJ format to C code with "convertOBJ_toC.c".
 ![Ejemplos de salida en pantalla de un visualizador de mallas 3D: (a) original y (b) utilizando otros posibles modelos.](cargarMalle3D_estatica_fig1.png).
 
-Comented in [M. Agustí. (2024). Importar mallas 3D en tiempo de compilación para una aplicación de videojuego en la 3DS. Universitat Politècnica de València] (http://hdl.handle.net/10251/205403).
+Comented in [M. Agustí. (2024). Importar mallas 3D en tiempo de compilación para una aplicación de videojuego en la 3DS. Universitat Politècnica de València](http://hdl.handle.net/10251/205403).
