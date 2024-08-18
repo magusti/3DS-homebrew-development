@@ -13,9 +13,9 @@ Contents of this repo:
 * Using sprites ib SDL 1.2 on [3DS__SDL1_2_box2D](https://github.com/magusti/3DS-homebrew-development#3ds_sdl1_2_sprites).
 * Loading 3D mesh OBJ files statically on [3DS_cargarMalla3D_estatica](https://github.com/magusti/3DS-homebrew-development#3ds_cargarmalla3d_estatica).
 * Basic SDL examples from Switch examples [3DS_sdl-simple & 3DS_sdl-demo](https://github.com/magusti/3DS-homebrew-development#ejemplos-b%C3%A1sicos-de-portabilidad-de-aplicaciones-basadas-en-sdl-comparativa-entre-plataforma-switch-escritorio-y-3ds).
-* How to configure Video Mode in SDL for 3DS [3DS_sdl-videoMode]().
-* How to use bitmap images in SDL for 3DS [3DS_sdl-image]().
-+ How to use audio in SDL for 3DS [3DS_sdl-audio]().
+* How to configure Video Mode in SDL for 3DS [3DS_sdl-videoMode](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-videomode).
+* How to use bitmap images in SDL for 3DS [3DS_sdl-image](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-image).
++ How to use audio in SDL for 3DS [3DS_sdl-audio](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-audio).
 
 
 ## 3DS__SDL1_2_box2D
@@ -56,7 +56,7 @@ Input events for SDL 1.2 in 3DS: (a) 3DS keys & (b) Joystick-like.
 ![Input events for SDL 1.2 in 3DS: (a) 3DS keys & (b) Joystick-like.](Screenshot_3DS_event.png)
 
 Examples of outputs from different graphic modes on 400x240: graphics & text (upper row, left), only graphics (upper row, right) and dual mode (lower row).
-![](Screenshot_4DS_videoModes.png.png)
+![](Screenshot_3DS_videoModes.png.png)
 
 Comented in [M. Agustí. (2024). Introducción al desarrollo con SDL 1.2 para plataforma 3DS. Modos de vídeo y eventos](http://hdl.handle.net/10251/205439).
 
