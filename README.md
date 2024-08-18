@@ -4,9 +4,14 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
 
 Tokens
 https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+
+
 -->
 # 3DS-homebrew-development
-Homebrew examples for 3DS from "videoconsole development" subject.
+Homebrew examples for 3DS from "videoconsole development" subject using [devkitPro](https://devkitpro.org/). 
+Thanks to the creators and maintainers of [devkitPro](https://devkitpro.org/), and specially to  Drunken Coders, mtheall, sgstair, WinterMute, Patater, AntonioND, fincs ( ͡° ͜ʖ ͡°) and PabloMK7.
+Also thanks to the creators and maintainers of 3DS emulators such as Citra (RIP), Citra MK7's fork, Lime, Panda3DS, Mikage, Mandarine3DS.And to the creators and maintainers of documentation 3DBrew, GBATek, 
+
 
 Contents of this repo:
 - Using Box2D with SDL on [3DS__SDL1_2_box2D](https://github.com/magusti/3DS-homebrew-development#3ds__sdl1_2_box2d).
