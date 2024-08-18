@@ -11,8 +11,8 @@ Homebrew examples for 3DS from "videoconsole development" subject.
 Contents of this repo:
 - Using Box2D with SDL on [3DS__SDL1_2_box2D](https://github.com/magusti/3DS-homebrew-development#3ds__sdl1_2_box2d
 * Using sprites ib SDL 1.2 on [3DS__SDL1_2_box2D](https://github.com/magusti/3DS-homebrew-development#3ds_sdl1_2_sprites)
-+ Loading 3D mesh OBJ files statically on [3DS_cargarMalla3D_estatica](https://github.com/magusti/3DS-homebrew-development#3ds_cargarmalla3d_estatica).
-
+* Loading 3D mesh OBJ files statically on [3DS_cargarMalla3D_estatica](https://github.com/magusti/3DS-homebrew-development#3ds_cargarmalla3d_estatica).
++ SDL-simple & ADL-demo: basic examples using SDL [](https://github.com/magusti/3DS-homebrew-development#ejemplos-b%C3%A1sicos-de-portabilidad-de-aplicaciones-basadas-en-sdl-comparativa-entre-plataforma-switch-escritorio-y-3ds)
 
 
 ## 3DS__SDL1_2_box2D
@@ -39,7 +39,7 @@ Comented in [M. Agustí. (2024). Importar mallas 3D en tiempo de compilación pa
 
 
 ## Ejemplos básicos de portabilidad de aplicaciones basadas en SDL: comparativa entre plataforma Switch, escritorio y 3DS
-A review of Switch examples **sdl2/sdl2-simple** y **sdl2/sdl2-demo** ported to 3DS (SDL 1.2) and Linux (PC, SDL 2.0).
+A review of Switch examples **sdl2/sdl2-simple** (*3DS_sdl-simple*) and **sdl2/sdl2-demo** (*3DS_sdl-demo*)  ported to 3DS (SDL 1.2) and Linux (PC, SDL 2.0).
 
 Screenshot of Switch example *sdl2/sdl2-simple* and *sdl2/sdl2-demo* (upper row), 3DS (lover row, left)  and PC (lover row, right) version.
 ![Screenshot of Switch example sdl2/sdl2-simple and sdl2/sdl2-demo ported to 3DS and PC (Linux.](Screenshot_SDL_simple_demo_fig.png)
