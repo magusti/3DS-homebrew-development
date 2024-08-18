@@ -76,6 +76,6 @@ Using images in SDL 1.2 on 3DS: basic operations.
 Image basic operations suppot in SDL 1.2 core on 3DS: rectangles and BMP files.
 ![Image basic operations suppot in SDL 1.2 core on 3DS: rectangles and BMP files.](Screenshot_sdl_imageBasic.png)
 
-Commented in [M. Agustí (2024). Introducción al desarrollo con SDL 1.2 para plataforma 3DS. Uso de imágenes. Universitat Politècnica de València.](http://hdl.handle.net/10251/205415).
+Commented in [M. Agustí (2024). Introducción al desarrollo con SDL 1.2 para plataforma 3DS. Uso de imágenes.](http://hdl.handle.net/10251/205415).
 
 
