@@ -36,3 +36,11 @@ Examples of outputs from the lenny example rewrite as a 3D mesh visualizer (a) o
 ![Ejemplos de salida en pantalla de un visualizador de mallas 3D: (a) original y (b) utilizando otros posibles modelos.](cargarMalle3D_estatica_fig1.png).
 
 Comented in [M. Agustí. (2024). Importar mallas 3D en tiempo de compilación para una aplicación de videojuego en la 3DS. Universitat Politècnica de València](http://hdl.handle.net/10251/205403).
+
+
+## Ejemplos básicos de portabilidad de aplicaciones basadas en SDL: comparativa entre plataforma Switch, escritorio y 3DS
+A review of Switch examples **sdl2/sdl2-simple** y **sdl2/sdl2-demo** ported to 3DS (SDL 1.2) and Linux (PC, SDL 2.0).
+
+Screenshot of Switch example *sdl2/sdl2-simple* and *sdl2/sdl2-demo* (upper row), 3DS (lover row, left)  and PC (lover row, right) version.
+![Screenshot of Switch example sdl2/sdl2-simple and sdl2/sdl2-demo ported to 3DS and PC (Linux.](Screenshot_SDL_simple_demo_fig.png)
+
