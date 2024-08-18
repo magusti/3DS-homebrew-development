@@ -12,7 +12,7 @@ Homebrew examples for 3DS from "videoconsole development" subject using [devkitP
 
 Thanks to the creators and maintainers of [devkitPro](https://devkitpro.org/), and specially to  Drunken Coders, mtheall, sgstair, WinterMute, Patater, AntonioND, fincs ( ͡° ͜ʖ ͡°) and PabloMK7.
 
-Also thanks to the creators and maintainers of 3DS emulators such as Citra (RIP), Citra MK7's fork, Lime, Panda3DS, Mikage, Mandarine3DS.And to the creators and maintainers of documentation 3DBrew, GBATek, 
+Also thanks to the creators and maintainers of 3DS emulators such as Citra (RIP), Citra MK7's fork, Lime, Panda3DS, Mikage, Mandarine3DS.And to the creators and maintainers of documentation 3DBrew, and GBATek. 
 
 
 Contents of this repo:
