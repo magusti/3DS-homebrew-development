@@ -30,7 +30,7 @@ The SDL 1.2 version of *gpusprites* example from **3ds-examples**.
 
 Screenshot of 3DS example *graphics/gpu/gpusprites* rewriting the graphic interface using SDL 1.2.
 ![Screenshot of 3DS example *graphics/gpu/gpusprites* rewriting the graphic interface using SDL 1.2.](Screenshot_3DS_SDL1_2_sprites_fig.png)
-[Related to Switch example]().
+[Related to Switch example](https://github.com/magusti/Switch-homebrew-development?tab=readme-ov-file#switch__sdl2_0_sprites).
 
 
 ## 3DS_cargarMalla3D_estatica
@@ -59,7 +59,7 @@ Input events for SDL 1.2 in 3DS: (a) 3DS keys & (b) Joystick-like.
 Examples of outputs from different graphic modes on 400x240: graphics & text (upper row, left), only graphics (upper row, right) and dual mode (lower row).
 ![Examples of outputs from different graphic modes on 400x240: graphics & text (upper row, left), only graphics (upper row, right) and dual mode (lower row).](Screenshot_3DS_videoModes.png.png)
 
-Comented in [M. Agustí. (2024). Introducción al desarrollo con SDL 1.2 para plataforma 3DS. Modos de vídeo y eventos](http://hdl.handle.net/10251/205439).
+Comented in [M. Agustí. (2024). Introducción al desarrollo con SDL 1.2 para plataforma 3DS. Modos de vídeo y eventos. Universitat Politècnica de València](http://hdl.handle.net/10251/205439).
 
 
 ## 3DS_sdl-audio
@@ -68,7 +68,7 @@ Using audio in SDL 1.2 on 3DS: basic operations.
 Audio support in SDL 1.2 core on 3DS: (a) operation & (b) data structures.
 ![Audio support in SDL 1.2 core on 3DS: (a) operation 6 (b) data structures.](Screenshot_sdl1_2_audioBasic.png)
 
-Commented in [M. Agustí (2024). Introducción al desarrollo con SDL 1.2 para plataforma 3DS. uso del audio.](http://hdl.handle.net/10251/205231).
+Commented in [M. Agustí (2024). Introducción al desarrollo con SDL 1.2 para plataforma 3DS. uso del audio. Universitat Politècnica de València](http://hdl.handle.net/10251/205231).
 
 ## 3DS_sdl-image
 Using images in SDL 1.2 on 3DS: basic operations.
@@ -76,6 +76,6 @@ Using images in SDL 1.2 on 3DS: basic operations.
 Image basic operations suppot in SDL 1.2 core on 3DS: rectangles and BMP files.
 ![Image basic operations suppot in SDL 1.2 core on 3DS: rectangles and BMP files.](Screenshot_sdl_imageBasic.png)
 
-Commented in [M. Agustí (2024). Introducción al desarrollo con SDL 1.2 para plataforma 3DS. Uso de imágenes.](http://hdl.handle.net/10251/205415).
+Commented in [M. Agustí (2024). Introducción al desarrollo con SDL 1.2 para plataforma 3DS. Uso de imágenes. Universitat Politècnica de València](http://hdl.handle.net/10251/205415).
 
 
