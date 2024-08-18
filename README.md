@@ -56,7 +56,7 @@ Input events for SDL 1.2 in 3DS: (a) 3DS keys & (b) Joystick-like.
 ![Input events for SDL 1.2 in 3DS: (a) 3DS keys & (b) Joystick-like.](Screenshot_3DS_event.png)
 
 Examples of outputs from different graphic modes on 400x240: graphics & text (upper row, left), only graphics (upper row, right) and dual mode (lower row).
-![](Screenshot_3DS_videoModes.png.png)
+![Examples of outputs from different graphic modes on 400x240: graphics & text (upper row, left), only graphics (upper row, right) and dual mode (lower row).](Screenshot_3DS_videoModes.png.png)
 
 Comented in [M. Agustí. (2024). Introducción al desarrollo con SDL 1.2 para plataforma 3DS. Modos de vídeo y eventos](http://hdl.handle.net/10251/205439).
 
