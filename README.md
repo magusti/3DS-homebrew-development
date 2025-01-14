@@ -5,14 +5,16 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
 Tokens
 https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 
-
+Línea d'ordres habitual::
+Al directori inicial del repo:
+ git add.; git commit -m "Motiu"; git push; #copiaAciElTokenPerTindrelAMa
 -->
 # 3DS-homebrew-development
 Homebrew examples for 3DS from "videoconsole development" subject using [devkitPro](https://devkitpro.org/). 
 
 Thanks to the creators and maintainers of [devkitPro](https://devkitpro.org/), and specially to  Drunken Coders, mtheall, sgstair, WinterMute, Patater, AntonioND, fincs ( ͡° ͜ʖ ͡°) and PabloMK7.
 
-Also thanks to the creators and maintainers of 3DS emulators such as Citra (RIP), Citra MK7's fork, Lime, Panda3DS, Mikage, Mandarine3DS.And to the creators and maintainers of documentation 3DBrew, and GBATek. 
+Also thanks to the creators and maintainers of 3DS emulators such as Citra (RIP), Citra MK7's fork, Lime, Panda3DS, Mikage, Mandarine3DS. And to the creators and maintainers of documentation 3DBrew, and GBATek. 
 
 
 Contents of this repo:
@@ -22,8 +24,8 @@ Contents of this repo:
 * Basic SDL examples from Switch examples [3DS_sdl-simple & 3DS_sdl-demo](https://github.com/magusti/3DS-homebrew-development#ejemplos-b%C3%A1sicos-de-portabilidad-de-aplicaciones-basadas-en-sdl-comparativa-entre-plataforma-switch-escritorio-y-3ds).
 * How to configure Video Mode in SDL for 3DS [3DS_sdl-videoMode](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-videomode).
 * How to use audio in SDL for 3DS [3DS_sdl-audio](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-audio).
-+ How to use bitmap images in SDL for 3DS [3DS_sdl-image](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-image).
-
+* How to use bitmap images in SDL for 3DS [3DS_sdl-image](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-image).
++ Introductio to GPU and shaders use in 3DS platform [IntroShaders_3DS] (https://github.com/magusti/3DS-homebrew-development#introshaders_3ds).
 
 
 ## 3DS__SDL1_2_box2D
@@ -86,3 +88,9 @@ Image basic operations suppot in SDL 1.2 core on 3DS: rectangles and BMP files.
 Commented in [M. Agustí (2024). Introducción al desarrollo con SDL 1.2 para plataforma 3DS. Uso de imágenes. Universitat Politècnica de València](http://hdl.handle.net/10251/205415).
 
 
+
+## IntroShaders_3DS
+Screenshot of compilation of shaders and code in 3DS ROM
+![Screenshot of compilation of shaders and code in 3DS ROM ](introShaders3DS/captura_introShaders3DS.png)
+
+Comented in ...
