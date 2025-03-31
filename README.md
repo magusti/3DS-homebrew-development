@@ -93,7 +93,7 @@ Commented in [M. Agustí (2024). Introducción al desarrollo con SDL 1.2 para pl
 Screenshot of compilation of shaders and code in 3DS ROM
 ![Screenshot of compilation of shaders and code in 3DS ROM ](introShaders3DS/captura_introShaders3DS.png)
 
-#Comented in ... 
+##Comented in ... 
 In process.
 
 
@@ -101,12 +101,12 @@ In process.
 Screenshot of materials properties applied to 3D objects using citro3D for 3DS
 ![Screenshot of materials properties applied to 3D objects using citro3D for 3DS](3DS_materials/captura_materials3DS.png)
 
-#Comented in ... 
+##Comented in ... 
 In process.
 
 ## Texturas para objetos 3D en 3DS
 Screenshot of texture applied to planar poligons in 3D using citro3D for 3DS 
 ![Screenshot of texture applied to planar poligons in 3D using citro3D for 3DS](3DS_textures/captura_textures3DS.png)
 
-#Comented in ... 
+##Comented in ... 
 In process.
