@@ -30,6 +30,10 @@ Contents of this repo:
 * Introduction to using testures on citro3D applications for 3DS platform [3DS_textures] (https://github.com/magusti/3DS-homebrew-development#3DS_textures).
 * Matrix effect on 3DS [3DS_efecteMatrix] (https://github.com/magusti/3DS-homebrew-development#3DS_efecteMatrix).
 
+<!-- 
+Plantilla entrada
+* Títol de l'article [Titol de l'entrada] (URL global en ancla local).
+-->
 
 
 
@@ -120,9 +124,23 @@ Screenshot of texture applied to planar poligons in 3D using citro3D for 3DS
 In process...
 
 
-##3DS_efecteMatrix
-Matrix effect on 3DS 
-|[Screenshot of my Matrix effect on 3DS] (efecteMatrix_3DS/efecteMatrix_3DS.png).
+## 3DS_efecteMatrix
+Screenshot of my Matrix effect on 3DS
+|[Screenshot of my Matrix effect on 3DS.] (efecteMatrix_3DS/efecteMatrix_3DS.png).
 
 <!-- Comented in ... -->
 In process...
+
+
+
+<!-- 
+Plantilla apartat 
+
+##Titol
+Text,  de l'entrada
+|[Text de l'entrada.] (efecteMatrix_3DS/efecteMatrix_3DS.png).
+
+< ! -- Comented in ... -- >
+In process...
+
+-->
