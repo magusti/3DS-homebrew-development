@@ -103,8 +103,9 @@ Commented in [M. Agustí (2024). Introducción al desarrollo con SDL 1.2 para pl
 Screenshot of compilation of shaders and code in 3DS ROM
 ![Screenshot of compilation of shaders and code in 3DS ROM ](introShaders3DS/captura_introShaders3DS.png)
 
-## Comented in ... 
 In process...
+Comented in [](https://riunet.upv.es/handle/10251/221045)
+
 
 
 <!-- Materiales e iluminación para objetos 3D en 3DS -->
@@ -112,8 +113,8 @@ In process...
 Screenshot of materials properties applied to 3D objects using citro3D for 3DS
 ![Screenshot of materials properties applied to 3D objects using citro3D for 3DS](3DS_materials/captura_materials3DS.png)
 
-<!-- Comented in ... -->
 In process...
+Comented in [](https://riunet.upv.es/handle/10251/221088 )
 
 <!-- Texturas para objetos 3D en 3DS -->
 ## 3DS_textures
@@ -134,11 +135,11 @@ In process...
 
 
 <!-- 
-Plantilla apartat 
+Plantilla apartat; conter espais en blanc de separació o no i simbols
 
-##Titol
+## Titol
 Text,  de l'entrada
-|[Text de l'entrada.] (efecteMatrix_3DS/efecteMatrix_3DS.png).
+|[Text de l'entrada.](efecteMatrix_3DS/efecteMatrix_3DS.png).
 
 < ! -- Comented in ... -- >
 In process...
