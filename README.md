@@ -126,7 +126,7 @@ In process...
 
 ## 3DS_efecteMatrix
 Screenshot of my Matrix effect on 3DS
-|[Screenshot of my Matrix effect on 3DS.] (efecteMatrix_3DS/efecteMatrix_3DS.png).
+![Screenshot of my Matrix effect on 3DS.](efecteMatrix_3DS/efecteMatrix_3DS.png).
 
 <!-- Comented in ... -->
 In process...
