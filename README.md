@@ -44,6 +44,10 @@ The SDL 1.2 version of *box2D* example from **3ds-examples**.
 Screenshot of 3DS example *physics/box2d* using SDL 1.2.
 ![Screenshot of 3DS example *physics/box2d* using SDL 1.2.](Screenshot_3DS_SDL1_2_box2D_fig.png)
 
+
+Commented in [M. Agustí. (2024). Revisión de un ejemplo de uso de Box2D. Caso de uso en plataformas 3DS, Switch y PC. Universitat Politècnica de València](https://riunet.upv.es/handle/10251/205542).
+
+
 ## 3DS_SDL1_2_sprites
 The SDL 1.2 version of *gpusprites* example from **3ds-examples**.
 
