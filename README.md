@@ -8,6 +8,9 @@ https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/m
 Línea d'ordres habitual::
 Al directori inicial del repo:
  git add.; git commit -m "Motiu"; git push; #copiaAciElTokenPerTindrelAMa
+ 
+ # > h1
+ ## > h2
 -->
 # 3DS-homebrew-development
 Homebrew examples for 3DS from "videoconsole development" subject using [devkitPro](https://devkitpro.org/). 
@@ -18,8 +21,8 @@ Also thanks to the creators and maintainers of 3DS emulators such as Citra (RIP)
 
 
 Contents of this repo:
-- [Using Box2D with SDL on  3DS](https://github.com/magusti/3DS-homebrew-development#3ds__sdl1_2_box2d).
-* Using sprites ib SDL 1.2 on [3DS__SDL1_2_box2D](https://github.com/magusti/3DS-homebrew-development#3ds_sdl1_2_sprites).
+- [Using Box2D with SDL on  3DS](https://github.com/magusti/3DS-homebrew-development#Using Box2D with SDL on  3DS).
+* [Using sprites ib SDL 1.2 on 3DS](https://github.com/magusti/3DS-homebrew-development#3ds_sdl1_2_sprites).
 * Loading 3D mesh OBJ files statically on [3DS_cargarMalla3D_estatica](https://github.com/magusti/3DS-homebrew-development#3ds_cargarmalla3d_estatica).
 * Basic SDL examples from Switch examples [3DS_sdl-simple & 3DS_sdl-demo](https://github.com/magusti/3DS-homebrew-development#ejemplos-b%C3%A1sicos-de-portabilidad-de-aplicaciones-basadas-en-sdl-comparativa-entre-plataforma-switch-escritorio-y-3ds).
 * How to configure Video Mode in SDL for 3DS [3DS_sdl-videoMode](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-videomode).
@@ -48,7 +51,7 @@ Screenshot of 3DS example *physics/box2d* using SDL 1.2.
 Commented in [M. Agustí. (2024). Revisión de un ejemplo de uso de Box2D. Caso de uso en plataformas 3DS, Switch y PC. Universitat Politècnica de València](https://riunet.upv.es/handle/10251/205542).
 
 
-## 3DS_SDL1_2_sprites
+## Using sprites ib SDL 1.2 on 3DS
 The SDL 1.2 version of *gpusprites* example from **3ds-examples**.
 
 Screenshot of 3DS example *graphics/gpu/gpusprites* rewriting the graphic interface using SDL 1.2.
