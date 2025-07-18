@@ -64,7 +64,7 @@ Screenshot of 3DS example *graphics/gpu/gpusprites* rewriting the graphic interf
 [Related to Switch example](https://github.com/magusti/Switch-homebrew-development?tab=readme-ov-file#switch__sdl2_0_sprites).
 
 
-<|--## 3DS_cargarMalla3D_estatica-->
+<|-- ## 3DS_cargarMalla3D_estatica -->
 
 ## Loading 3D mesh OBJ files statically on 3DS
 
@@ -76,7 +76,7 @@ Examples of outputs from the lenny example rewrite as a 3D mesh visualizer (a) o
 Commented in [M. Agustí. (2024). Importar mallas 3D en tiempo de compilación para una aplicación de videojuego en la 3DS. Universitat Politècnica de València](http://hdl.handle.net/10251/205403).
 
 
-<!--## 3DS_sdl-simple and 3DS_sdl-demo-->
+<!-- ## 3DS_sdl-simple and 3DS_sdl-demo -->
 
 ## Basic SDL examples from Switch examples
 A review of Switch examples **sdl2/sdl2-simple** (*3DS_sdl-simple*) and **sdl2/sdl2-demo** (*3DS_sdl-demo*) ported to 3DS (SDL 1.2) and, also, to Linux (PC, SDL 2.0) to compare the way of develelop with SDL in the three platforms.
