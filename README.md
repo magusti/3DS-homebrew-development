@@ -13,7 +13,8 @@ Al directori inicial del repo:
  ## > h2
 -->
 
-# 3DS-homebrew-development
+<!-- # 3DS-homebrew-development -->
+# 3DS Homebrew Development
 
 Homebrew examples for 3DS from "videoconsole development" subject using [devkitPro](https://devkitpro.org/). 
 
@@ -27,13 +28,13 @@ Contents of this repo:
 * [Using sprites lib SDL 1.2 on 3DS](https://github.com/magusti/3DS-homebrew-development#using-sprites-lib-sdl-12-on-3ds).
 * [Loading 3D mesh OBJ files statically on 3DS](https://github.com/magusti/3DS-homebrew-development#loading-3d-mesh-obj-files-statically-on-3ds).
 * [Basic SDL examples from Switch examples](https://github.com/magusti/3DS-homebrew-development#basic-sdl-examples-from-switch-examples).
-* How to configure Video Mode in SDL for 3DS [3DS_sdl-videoMode](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-videomode).
-* How to use audio in SDL for 3DS [3DS_sdl-audio](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-audio).
-* How to use bitmap images in SDL for 3DS [3DS_sdl-image](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-image).
-+ Introduction to GPU and shaders use in 3DS platform [IntroShaders_3DS](https://github.com/magusti/3DS-homebrew-development#introshaders_3ds).
-* Introduction to using materials on citro3D applications for 3DS platform [3DS_materials](https://github.com/magusti/3DS-homebrew-development#3DS_materials).
-* Introduction to using testures on citro3D applications for 3DS platform [3DS_textures](https://github.com/magusti/3DS-homebrew-development#3DS_textures).
-* Matrix effect on 3DS [3DS_efecteMatrix](https://github.com/magusti/3DS-homebrew-development#3DS_efecteMatrix).
+* [How to configure Video Mode in SDL for 3DS](https://github.com/magusti/3DS-homebrew-development#how-to-configure-video-mode-in-sdl-for-3ds).
+* [How to use audio in SDL for 3DS](https://github.com/magusti/3DS-homebrew-development/wow-to-use-audio-in-sdl-for-3ds).
+* [How to use bitmap images in SDL for 3DS](https://github.com/magusti/3DS-homebrew-development#ow-to-use-bitmap-images-in-sdl-for-3ds).
++ [Introduction to GPU and shaders use in 3DS platform](https://github.com/magusti/3DS-homebrew-development#introduction-to-gpu-and-shaders-use-in-3ds-platform).
+* [Introduction to using materials on citro3D applications for 3DS platform](https://github.com/magusti/3DS-homebrew-development#introduction-to-using-materials-on-citro3d-applications-for-3ds-platform).
+* [Introduction to using textures on citro3D applications for 3DS platform](https://github.com/magusti/3DS-homebrew-development#introduction-to-using-textures-on-citro3d-applications-for-3ds-platform).
+* [Matrix effect on 3DS](https://github.com/magusti/3DS-homebrew-development#matrix-effect-on-3ds).
 
 <!-- 
 Plantilla entrada
@@ -87,7 +88,9 @@ Commented in [M. Agustí. (2024). Ejemplos básicos de portabilidad de aplicacio
 
 
 
-## 3DS_sdl-videoMode
+<!-- ## 3DS_sdl-videoMode -->
+
+## How to configure Video Mode in SDL for 3DS
 Input events for SDL 1.2 in 3DS: (a) 3DS keys & (b) Joystick-like.
 ![Input events for SDL 1.2 in 3DS: (a) 3DS keys & (b) Joystick-like.](Screenshot_3DS_event.png)
 
@@ -97,7 +100,10 @@ Examples of outputs from different graphic modes on 400x240: graphics & text (up
 Commented in [M. Agustí. (2024). Introducción al desarrollo con SDL 1.2 para plataforma 3DS. Modos de vídeo y eventos. Universitat Politècnica de València](http://hdl.handle.net/10251/205439).
 
 
-## 3DS_sdl-audio
+<!-- ## 3DS_sdl-audio -->
+
+## How to use audio in SDL for 3DS
+
 Using audio in SDL 1.2 on 3DS: basic operations.
 
 Audio support in SDL 1.2 core on 3DS: (a) operation & (b) data structures.
@@ -105,7 +111,11 @@ Audio support in SDL 1.2 core on 3DS: (a) operation & (b) data structures.
 
 Commented in [M. Agustí (2024). Introducción al desarrollo con SDL 1.2 para plataforma 3DS. uso del audio. Universitat Politècnica de València](http://hdl.handle.net/10251/205231).
 
-## 3DS_sdl-image
+
+<!-- ## 3DS_sdl-image -->
+
+## How to use bitmap images in SDL for 3DS
+
 Using images in SDL 1.2 on 3DS: basic operations.
 
 Image basic operations suppot in SDL 1.2 core on 3DS: rectangles and BMP files.
@@ -115,7 +125,10 @@ Commented in [M. Agustí (2024). Introducción al desarrollo con SDL 1.2 para pl
 
 
 
-## IntroShaders_3DS
+<!--## IntroShaders_3DS -->
+
+## Introduction to GPU and shaders use in 3DS platform
+
 PICA & picasso: How is the 3DS's GPU and which tools you can use to write the shaders source code for it.
 
 How to use shaders in 3DS's GPU.
@@ -125,8 +138,9 @@ Commented in [M. Agustí. (2025). Introducción al uso de la GPU y shaders en pl
 
 
 
-<!-- Materiales e iluminación para objetos 3D en 3DS -->
-## 3DS_materials
+<!-- Materiales e iluminación para objetos 3D en 3DS ## 3DS_materials -->
+
+## Introduction to using materials on citro3D applications for 3DS platform
 
 Ligth and materials properties applied to 3D objects using citro3D for 3DS.
 ![Ligth and materials properties applied to 3D objects using citro3D for 3DS](3DS_materials/captura_materials3DS.png)
@@ -135,8 +149,10 @@ Ligth and materials properties applied to 3D objects using citro3D for 3DS.
 Commented in [M. Agustí. (2025). Introducción al uso de materiales en aplicaciones para Nintendo 3DS. Universitat Politècnica de València](https://riunet.upv.es/handle/10251/221088).
 
 
-<!-- Texturas para objetos 3D en 3DS -->
-## 3DS_textures
+<!-- Texturas para objetos 3D en 3DS ## 3DS_textures -->
+
+## Introduction to using textures on citro3D applications for 3DS platform
+
 Screenshot of texture applied to planar poligons in 3D using citro3D for 3DS 
 ![Screenshot of texture applied to planar poligons in 3D using citro3D for 3DS](3DS_textures/captura_textures3DS.png)
 
@@ -144,7 +160,10 @@ Commented in [M. Agustí. (2025). Introducción al uso de texturas  en aplicacio
 
 
 
-## 3DS_efecteMatrix
+<!-- ## 3DS_efecteMatrix -->
+
+## Matrix effect on 3DS 
+
 Screenshot of my own implementation of "Matrix effect" on 3DS
 ![Screenshot of my Matrix effect on 3DS.](efecteMatrix_3DS/efecteMatrix_3DS.png).
 
