@@ -18,7 +18,7 @@ Also thanks to the creators and maintainers of 3DS emulators such as Citra (RIP)
 
 
 Contents of this repo:
-- Using Box2D with SDL on [3DS__SDL1_2_box2D](https://github.com/magusti/3DS-homebrew-development#3ds__sdl1_2_box2d).
+- [Using Box2D with SDL on  3DS](https://github.com/magusti/3DS-homebrew-development#3ds__sdl1_2_box2d).
 * Using sprites ib SDL 1.2 on [3DS__SDL1_2_box2D](https://github.com/magusti/3DS-homebrew-development#3ds_sdl1_2_sprites).
 * Loading 3D mesh OBJ files statically on [3DS_cargarMalla3D_estatica](https://github.com/magusti/3DS-homebrew-development#3ds_cargarmalla3d_estatica).
 * Basic SDL examples from Switch examples [3DS_sdl-simple & 3DS_sdl-demo](https://github.com/magusti/3DS-homebrew-development#ejemplos-b%C3%A1sicos-de-portabilidad-de-aplicaciones-basadas-en-sdl-comparativa-entre-plataforma-switch-escritorio-y-3ds).
@@ -38,7 +38,7 @@ Plantilla entrada
 
 
 
-## 3DS__SDL1_2_box2D
+## Using Box2D with SDL on  3DS
 The SDL 1.2 version of *box2D* example from **3ds-examples**.
 
 Screenshot of 3DS example *physics/box2d* using SDL 1.2.
