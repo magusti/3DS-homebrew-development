@@ -25,9 +25,8 @@ Also thanks to the creators and maintainers of 3DS emulators such as Citra (RIP)
 Contents of this repo:
 - [Using Box2D with SDL on 3DS](https://github.com/magusti/3DS-homebrew-development#using-box2d-with-sdl-on-3ds).
 * [Using sprites lib SDL 1.2 on 3DS](https://github.com/magusti/3DS-homebrew-development#using-sprites-lib-sdl-12-on-3ds).
-* [Loading 3D mesh OBJ files statically on 3DS](https://github.com/magusti/3DS-homebrew-development#loading-3d- mesh-obj-files-statically-on-3ds).
-
-* Basic SDL examples from Switch examples [3DS_sdl-simple & 3DS_sdl-demo](https://github.com/magusti/3DS-homebrew-development#ejemplos-b%C3%A1sicos-de-portabilidad-de-aplicaciones-basadas-en-sdl-comparativa-entre-plataforma-switch-escritorio-y-3ds).
+* [Loading 3D mesh OBJ files statically on 3DS](https://github.com/magusti/3DS-homebrew-development#loading-3d-mesh-obj-files-statically-on-3ds).
+* [Basic SDL examples from Switch examples](https://github.com/magusti/3DS-homebrew-development#basic-sdl-examples-from-switch-examples).
 * How to configure Video Mode in SDL for 3DS [3DS_sdl-videoMode](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-videomode).
 * How to use audio in SDL for 3DS [3DS_sdl-audio](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-audio).
 * How to use bitmap images in SDL for 3DS [3DS_sdl-image](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-image).
@@ -76,7 +75,9 @@ Examples of outputs from the lenny example rewrite as a 3D mesh visualizer (a) o
 Commented in [M. Agustí. (2024). Importar mallas 3D en tiempo de compilación para una aplicación de videojuego en la 3DS. Universitat Politècnica de València](http://hdl.handle.net/10251/205403).
 
 
-## 3DS_sdl-simple and 3DS_sdl-demo
+<!--## 3DS_sdl-simple and 3DS_sdl-demo-->
+
+## Basic SDL examples from Switch examples
 A review of Switch examples **sdl2/sdl2-simple** (*3DS_sdl-simple*) and **sdl2/sdl2-demo** (*3DS_sdl-demo*) ported to 3DS (SDL 1.2) and, also, to Linux (PC, SDL 2.0) to compare the way of develelop with SDL in the three platforms.
 
 Screenshot of Switch example *sdl2/sdl2-simple* and *sdl2/sdl2-demo* (upper row), 3DS (lower row, left)  and PC (lower row, right) version.
