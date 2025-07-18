@@ -12,7 +12,9 @@ Al directori inicial del repo:
  # > h1
  ## > h2
 -->
+
 # 3DS-homebrew-development
+
 Homebrew examples for 3DS from "videoconsole development" subject using [devkitPro](https://devkitpro.org/). 
 
 Thanks to the creators and maintainers of [devkitPro](https://devkitpro.org/), and specially to  Drunken Coders, mtheall, sgstair, WinterMute, Patater, AntonioND, fincs ( ͡° ͜ʖ ͡°) and PabloMK7.
@@ -43,6 +45,7 @@ Plantilla entrada
 
 
 ## Using Box2D with SDL on 3DS
+
 The SDL 1.2 version of *box2D* example from **3ds-examples**.
 
 Screenshot of 3DS example *physics/box2d* using SDL 1.2.
@@ -53,6 +56,7 @@ Commented in [M. Agustí. (2024). Revisión de un ejemplo de uso de Box2D. Caso 
 
 
 ## Using sprites lib SDL 1.2 on 3DS
+
 The SDL 1.2 version of *gpusprites* example from **3ds-examples**.
 
 Screenshot of 3DS example *graphics/gpu/gpusprites* rewriting the graphic interface using SDL 1.2.
@@ -62,7 +66,8 @@ Screenshot of 3DS example *graphics/gpu/gpusprites* rewriting the graphic interf
 
 <|--## 3DS_cargarMalla3D_estatica-->
 
-##Loading 3D mesh OBJ files statically on 3DS
+## Loading 3D mesh OBJ files statically on 3DS
+
 A review of *lenny* example, from **3ds-examples**, that loads an OBJ mesh choosen at compile time.
 
 Examples of outputs from the lenny example rewrite as a 3D mesh visualizer (a) original and (b) three models converted from OBJ format to C code with "convertOBJ_toC.c".
