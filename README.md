@@ -23,8 +23,8 @@ Also thanks to the creators and maintainers of 3DS emulators such as Citra (RIP)
 Contents of this repo:
 - [Using Box2D with SDL on 3DS](
 https://github.com/magusti/3DS-homebrew-development#using-box2d-with-sdl-on-3ds).
-* [Using sprites ib SDL 1.2 on 3DS](https://github.com/magusti/3DS-homebrew-development#3ds_sdl1_2_sprites).
-* [Loading 3D mesh OBJ files statically on 3DS](https://github.com/magusti/3DS-homebrew-development#3ds_cargarmalla3d_estatica).
+* [Using sprites lib SDL 1.2 on 3DS](https://github.com/magusti/3DS-homebrew-development#using-sprites-ib-sdl-12-on-3ds).
+* [Loading 3D mesh OBJ files statically on 3DS](https://github.com/magusti/3DS-homebrew-development#loading-3d- mesh-obj-files-statically-on-3ds).
 * Basic SDL examples from Switch examples [3DS_sdl-simple & 3DS_sdl-demo](https://github.com/magusti/3DS-homebrew-development#ejemplos-b%C3%A1sicos-de-portabilidad-de-aplicaciones-basadas-en-sdl-comparativa-entre-plataforma-switch-escritorio-y-3ds).
 * How to configure Video Mode in SDL for 3DS [3DS_sdl-videoMode](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-videomode).
 * How to use audio in SDL for 3DS [3DS_sdl-audio](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-audio).
@@ -52,7 +52,7 @@ Screenshot of 3DS example *physics/box2d* using SDL 1.2.
 Commented in [M. Agustí. (2024). Revisión de un ejemplo de uso de Box2D. Caso de uso en plataformas 3DS, Switch y PC. Universitat Politècnica de València](https://riunet.upv.es/handle/10251/205542).
 
 
-## Using sprites ib SDL 1.2 on 3DS
+## Using sprites lib SDL 1.2 on 3DS
 The SDL 1.2 version of *gpusprites* example from **3ds-examples**.
 
 Screenshot of 3DS example *graphics/gpu/gpusprites* rewriting the graphic interface using SDL 1.2.
@@ -61,6 +61,7 @@ Screenshot of 3DS example *graphics/gpu/gpusprites* rewriting the graphic interf
 
 
 <|--## 3DS_cargarMalla3D_estatica-->
+
 ##Loading 3D mesh OBJ files statically on 3DS
 A review of *lenny* example, from **3ds-examples**, that loads an OBJ mesh choosen at compile time.
 
