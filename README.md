@@ -30,7 +30,7 @@ Contents of this repo:
 * [Basic SDL examples from Switch examples](https://github.com/magusti/3DS-homebrew-development#basic-sdl-examples-from-switch-examples).
 * [How to configure Video Mode in SDL for 3DS](https://github.com/magusti/3DS-homebrew-development#how-to-configure-video-mode-in-sdl-for-3ds).
 * [How to use audio in SDL for 3DS](https://github.com/magusti/3DS-homebrew-development/wow-to-use-audio-in-sdl-for-3ds).
-* [How to use bitmap images in SDL for 3DS](https://github.com/magusti/3DS-homebrew-development#gow-to-use-bitmap-images-in-sdl-for-3ds).
+* [How to use bitmap images in SDL for 3DS](https://github.com/magusti/3DS-homebrew-development#how-to-use-bitmap-images-in-sdl-for-3ds).
 + [Introduction to GPU and shaders use in 3DS platform](https://github.com/magusti/3DS-homebrew-development#introduction-to-gpu-and-shaders-use-in-3ds-platform).
 * [Introduction to using materials on citro3D applications for 3DS platform](https://github.com/magusti/3DS-homebrew-development#introduction-to-using-materials-on-citro3d-applications-for-3ds-platform).
 * [Introduction to using textures on citro3D applications for 3DS platform](https://github.com/magusti/3DS-homebrew-development#introduction-to-using-textures-on-citro3d-applications-for-3ds-platform).
