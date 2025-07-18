@@ -104,8 +104,10 @@ Commented in [M. Agustí (2024). Introducción al desarrollo con SDL 1.2 para pl
 
 
 ## IntroShaders_3DS
-Screenshot of compilation of shaders and code in 3DS ROM
-![Screenshot of compilation of shaders and code in 3DS ROM ](introShaders3DS/captura_introShaders3DS.png)
+PICA & picasso: How is the 3DS's GPU and which tools you can use to write the shaders source code for it.
+
+How to use shaders in 3DS's GPU.
+![How to use shaders in 3DS's GPU](introShaders3DS/captura_introShaders3DS.png).
 
 Commented in [M. Agustí. (2025). Introducción al uso de la GPU y shaders en plataforma 3DS. Universitat Politècnica de València](https://riunet.upv.es/handle/10251/221045).
 
@@ -113,8 +115,9 @@ Commented in [M. Agustí. (2025). Introducción al uso de la GPU y shaders en pl
 
 <!-- Materiales e iluminación para objetos 3D en 3DS -->
 ## 3DS_materials
-Screenshot of materials properties applied to 3D objects using citro3D for 3DS
-![Screenshot of materials properties applied to 3D objects using citro3D for 3DS](3DS_materials/captura_materials3DS.png)
+
+Ligth and materials properties applied to 3D objects using citro3D for 3DS.
+![Ligth and materials properties applied to 3D objects using citro3D for 3DS](3DS_materials/captura_materials3DS.png)
 
 
 Commented in [M. Agustí. (2025). Introducción al uso de materiales en aplicaciones para Nintendo 3DS. Universitat Politècnica de València](https://riunet.upv.es/handle/10251/221088).
@@ -130,7 +133,7 @@ Commented in [M. Agustí. (2025). Introducción al uso de texturas  en aplicacio
 
 
 ## 3DS_efecteMatrix
-Screenshot of my Matrix effect on 3DS
+Screenshot of my own implementation of "Matrix effect" on 3DS
 ![Screenshot of my Matrix effect on 3DS.](efecteMatrix_3DS/efecteMatrix_3DS.png).
 
 <!-- Commented in ... -->
@@ -148,4 +151,9 @@ Text,  de l'entrada
 < ! -- Commented in ... -- >
 In process...
 
+
+https://www.markdownguide.org/hacks/
+Un aví? > :warning: **Warning:** Do not push the big red button.
+Una nota? > :memo: **Note:** Sunrises are beautiful.
+Una sugerència > :bulb: **Tip:** Remember to appreciate the little things in life.
 -->
