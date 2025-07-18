@@ -25,10 +25,10 @@ Contents of this repo:
 * How to configure Video Mode in SDL for 3DS [3DS_sdl-videoMode](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-videomode).
 * How to use audio in SDL for 3DS [3DS_sdl-audio](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-audio).
 * How to use bitmap images in SDL for 3DS [3DS_sdl-image](https://github.com/magusti/3DS-homebrew-development/tree/main#3ds_sdl-image).
-+ Introduction to GPU and shaders use in 3DS platform [IntroShaders_3DS] (https://github.com/magusti/3DS-homebrew-development#introshaders_3ds).
-* Introduction to using materials on citro3D applications for 3DS platform [3DS_materials] (https://github.com/magusti/3DS-homebrew-development#3DS_materials).
-* Introduction to using testures on citro3D applications for 3DS platform [3DS_textures] (https://github.com/magusti/3DS-homebrew-development#3DS_textures).
-* Matrix effect on 3DS [3DS_efecteMatrix] (https://github.com/magusti/3DS-homebrew-development#3DS_efecteMatrix).
++ Introduction to GPU and shaders use in 3DS platform [IntroShaders_3DS](https://github.com/magusti/3DS-homebrew-development#introshaders_3ds).
+* Introduction to using materials on citro3D applications for 3DS platform [3DS_materials](https://github.com/magusti/3DS-homebrew-development#3DS_materials).
+* Introduction to using testures on citro3D applications for 3DS platform [3DS_textures](https://github.com/magusti/3DS-homebrew-development#3DS_textures).
+* Matrix effect on 3DS [3DS_efecteMatrix](https://github.com/magusti/3DS-homebrew-development#3DS_efecteMatrix).
 
 <!-- 
 Plantilla entrada
