@@ -18,9 +18,9 @@ Al directori inicial del repo:
 
 Homebrew examples for 3DS from "videoconsole development" subject using [devkitPro](https://devkitpro.org/). 
 
-Thanks to the creators and maintainers of [devkitPro](https://devkitpro.org/), and specially to  Drunken Coders, mtheall, sgstair, WinterMute, Patater, AntonioND, fincs ( ͡° ͜ʖ ͡°) and PabloMK7.
+Thanks to the creators and maintainers of [devkitPro](https://devkitpro.org/), and specially to  Drunken Coders, mtheall, sgstair, [smealum](https://github.com/smealum), [WinterMute](https://github.com/WinterMute), Patater, AntonioND, [fincs ( ͡° ͜ʖ ͡°)](https://github.com/fincs) and (PabloMK7](https://github.com/PabloMK7).
 
-Also thanks to the creators and maintainers of 3DS emulators such as Citra (RIP), Citra MK7's fork, Lime, Panda3DS, Mikage, Mandarine3DS. And to the creators and maintainers of documentation 3DBrew, and GBATek. 
+Also thanks to the creators and maintainers of 3DS emulators such as [Azahar Emulator](https://azahar-emu.org/) Citra (RIP), Citra MK7's fork, Lime, Panda3DS, Mikage, Mandarine3DS. And to the creators and maintainers of documentation 3DBrew, and GBATek. 
 
 
 Contents of this repo:
@@ -156,6 +156,7 @@ Commented in [M. Agustí. (2025). Introducción al uso de materiales en aplicaci
 Screenshot of texture applied to planar poligons in 3D using citro3D for 3DS 
 ![Screenshot of texture applied to planar poligons in 3D using citro3D for 3DS](3DS_textures/captura_textures3DS.png)
 
+Code in [introShaders3DS](https://github.com/magusti/3DS-homebrew-development/tree/main/introShaders3DS) repo.
 Commented in [M. Agustí. (2025). Introducción al uso de texturas  en aplicaciones  para Nintendo 3DS](https://riunet.upv.es/handle/10251/221104).
 
 
@@ -165,8 +166,9 @@ Commented in [M. Agustí. (2025). Introducción al uso de texturas  en aplicacio
 ## Matrix effect on 3DS 
 
 Screenshot of my own implementation of "Matrix effect" on 3DS
-![Screenshot of my Matrix effect on 3DS.](efecteMatrix_3DS/efecteMatrix_3DS.png).
+![Screenshot of my Matrix effect on 3DS.](efecteMatrix_3DS/captura_efecteMatrix_3DS.png).
 
+Code in [efecteMatrix_3DS](https://github.com/magusti/3DS-homebrew-development/tree/main/efecteMatrix_3DS) repo.
 <!-- Commented in ... -->
 In process...
 
