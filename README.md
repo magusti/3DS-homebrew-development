@@ -18,7 +18,7 @@ Al directori inicial del repo:
 
 Homebrew examples for 3DS from "videoconsole development" subject using [devkitPro](https://devkitpro.org/). 
 
-Thanks to the creators and maintainers of [devkitPro](https://devkitpro.org/), and specially to  Drunken Coders, mtheall, sgstair, [smealum](https://github.com/smealum), [WinterMute](https://github.com/WinterMute), Patater, AntonioND, [fincs ( ͡° ͜ʖ ͡°)](https://github.com/fincs) and (PabloMK7](https://github.com/PabloMK7).
+Thanks to the creators and maintainers of [devkitPro](https://devkitpro.org/), and specially to  Drunken Coders, mtheall, sgstair, [smealum](https://github.com/smealum), [WinterMute](https://github.com/WinterMute), Patater, AntonioND, [fincs ( ͡° ͜ʖ ͡°)](https://github.com/fincs) and [PabloMK7](https://github.com/PabloMK7).
 
 Also thanks to the creators and maintainers of 3DS emulators such as [Azahar Emulator](https://azahar-emu.org/) Citra (RIP), Citra MK7's fork, Lime, Panda3DS, Mikage, Mandarine3DS. And to the creators and maintainers of documentation 3DBrew, and GBATek. 
 
