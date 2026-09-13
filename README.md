@@ -35,6 +35,12 @@ Contents of this repo:
 * [Introduction to using materials on citro3D applications for 3DS platform](https://github.com/magusti/3DS-homebrew-development#introduction-to-using-materials-on-citro3d-applications-for-3ds-platform).
 * [Introduction to using textures on citro3D applications for 3DS platform](https://github.com/magusti/3DS-homebrew-development#introduction-to-using-textures-on-citro3d-applications-for-3ds-platform).
 * [Matrix effect on 3DS](https://github.com/magusti/3DS-homebrew-development#matrix-effect-on-3ds).
+* [Threads on 3DS](https://github.com/magusti/3DS-homebrew-development#matrix-effect-on-3ds).
+##Threads on 3DS 
+Introduction to Using Threads on 3DS videoconsole using devkitARM
+![Threads and Cores on 3DS hardware.](https://github.com/magusti/3DS-homebrew-development#Threads-on-3DS).
+
+
 
 <!-- 
 Plantilla entrada
@@ -164,7 +170,6 @@ Commented in [M. Agustí. (2025). Introducción al uso de texturas  en aplicacio
 <!-- ## 3DS_efecteMatrix -->
 
 ## Matrix effect on 3DS 
-
 Screenshot of my own implementation of "Matrix effect" on 3DS
 ![Screenshot of my Matrix effect on 3DS.](efecteMatrix_3DS/captura_efecteMatrix_3DS.png).
 
@@ -173,9 +178,18 @@ Code in [efecteMatrix_3DS](https://github.com/magusti/3DS-homebrew-development/t
 (Switch version) [https://github.com/magusti/Switch-homebrew-development/tree/main/efecteMatrix_Switch].
 
 <!-- Commented in ... -->
-In process...
+[M. Agustí. (2026). El uso del texto para efectos en pantalla: una implementación del efecto matrix portable entre videoconsolas y PC](https://riunet.upv.es/handle/10251/235727)
 
 
+
+
+
+##Threads on 3DS 
+
+Introduction to Using Threads on 3DS videoconsole using devkitARM
+![Threads and Cores on 3DS hardware.](fils_3DS/filsEn3DS.png).
+
+[M. Agustí. (2026). Introducción al uso de hilos en la videoconsola 3DS utilizando devkitARM](https://riunet.upv.es/entities/publication/b0874ca2-d7eb-4b3f-af02-8e15b5e0654b)
 
 <!-- 
 Plantilla apartat; conter espais en blanc de separació o no i simbols
@@ -193,3 +207,4 @@ Un aví? > :warning: **Warning:** Do not push the big red button.
 Una nota? > :memo: **Note:** Sunrises are beautiful.
 Una sugerència > :bulb: **Tip:** Remember to appreciate the little things in life.
 -->
+
