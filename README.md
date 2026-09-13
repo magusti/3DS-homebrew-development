@@ -184,7 +184,7 @@ Code in [efecteMatrix_3DS](https://github.com/magusti/3DS-homebrew-development/t
 
 
 
-##Threads on 3DS 
+## Threads on 3DS 
 
 Introduction to Using Threads on 3DS videoconsole using devkitARM
 ![Threads and Cores on 3DS hardware.](fils_3DS/filsEn3DS.png).
