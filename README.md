@@ -36,9 +36,6 @@ Contents of this repo:
 * [Introduction to using textures on citro3D applications for 3DS platform](https://github.com/magusti/3DS-homebrew-development#introduction-to-using-textures-on-citro3d-applications-for-3ds-platform).
 * [Matrix effect on 3DS](https://github.com/magusti/3DS-homebrew-development#matrix-effect-on-3ds).
 * [Threads on 3DS](https://github.com/magusti/3DS-homebrew-development#matrix-effect-on-3ds).
-##Threads on 3DS 
-Introduction to Using Threads on 3DS videoconsole using devkitARM
-![Threads and Cores on 3DS hardware.](https://github.com/magusti/3DS-homebrew-development#Threads-on-3DS).
 
 
 
