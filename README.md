@@ -174,8 +174,7 @@ Code in [efecteMatrix_3DS](https://github.com/magusti/3DS-homebrew-development/t
 
 (Switch version) [https://github.com/magusti/Switch-homebrew-development/tree/main/efecteMatrix_Switch].
 
-<!-- Commented in ... -->
-[M. Agustí. (2026). El uso del texto para efectos en pantalla: una implementación del efecto matrix portable entre videoconsolas y PC](https://riunet.upv.es/handle/10251/235727)
+Commented in [M. Agustí. (2026). El uso del texto para efectos en pantalla: una implementación del efecto matrix portable entre videoconsolas y PC](https://riunet.upv.es/handle/10251/235727)
 
 
 
@@ -186,7 +185,7 @@ Code in [efecteMatrix_3DS](https://github.com/magusti/3DS-homebrew-development/t
 Introduction to Using Threads on 3DS videoconsole using devkitARM
 ![Threads and Cores on 3DS hardware.](fils_3DS/filsEn3DS.png).
 
-[M. Agustí. (2026). Introducción al uso de hilos en la videoconsola 3DS utilizando devkitARM](https://riunet.upv.es/entities/publication/b0874ca2-d7eb-4b3f-af02-8e15b5e0654b)
+Commented in [M. Agustí. (2026). Introducción al uso de hilos en la videoconsola 3DS utilizando devkitARM](https://riunet.upv.es/entities/publication/b0874ca2-d7eb-4b3f-af02-8e15b5e0654b)
 
 <!-- 
 Plantilla apartat; conter espais en blanc de separació o no i simbols
